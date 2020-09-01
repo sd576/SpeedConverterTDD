@@ -13,30 +13,16 @@ namespace SpeedConverter.Tests
             speedConverter = new SpeedConversionService();
         }
 
-        [Fact]
-        public void ConvertToMilesPerHour_0_0()
+        [Theory]
+        [InlineData(0,0)]
+        [InlineData(10,6)]
+        [InlineData(11,7)]
+        [InlineData(20,12)]
+        public void ConvertToMilesPerHour_Input_Expected(int input, int expected)
         {
-            // act
-            var milesPerHour = speedConverter.ConvertToMilesPerHour(0);
+            var milesPerHour = speedConverter.ConvertToMilesPerHour(input);
 
-            // assert
-            Assert.Equal(0, milesPerHour);
-        }
-
-        [Fact]
-        public void ConvertToMilesPerHour_10_6()
-        {
-            var milesPerHour = speedConverter.ConvertToMilesPerHour(10);
-
-            Assert.Equal(6, milesPerHour);
-        }
-
-        [Fact]
-        public void ConvertToMilesPerHour_11_7()
-        {
-            var milesPerHour = speedConverter.ConvertToMilesPerHour(11);
-
-            Assert.Equal(7, milesPerHour);
+            Assert.Equal(expected, milesPerHour);
         }
 
         public void Dispose()
