@@ -94,3 +94,5 @@ X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Tests\obj\Debug\n
 X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Tests\obj\Debug\netcoreapp3.1\SpeedConverter.Tests.dll
 X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Tests\obj\Debug\netcoreapp3.1\SpeedConverter.Tests.pdb
 X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Tests\obj\Debug\netcoreapp3.1\SpeedConverter.Tests.genruntimeconfig.cache
+X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Tests\bin\Debug\netcoreapp3.1\SpeedConverter.Code.dll
+X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Tests\bin\Debug\netcoreapp3.1\SpeedConverter.Code.pdb

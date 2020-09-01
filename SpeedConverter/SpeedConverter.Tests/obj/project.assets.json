@@ -901,6 +901,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "SpeedConverter.Code/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SpeedConverter.Code.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SpeedConverter.Code.dll": {}
+        }
       }
     }
   },
@@ -3462,11 +3472,17 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "SpeedConverter.Code/1.0.0": {
+      "type": "project",
+      "path": "../SpeedConverter.Code/SpeedConverter.Code.csproj",
+      "msbuildProject": "../SpeedConverter.Code/SpeedConverter.Code.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.5.0",
+      "SpeedConverter.Code >= 1.0.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
@@ -3497,7 +3513,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "X:\\TDD\\XUnit VS19\\SpeedConverter\\SpeedConverter\\SpeedConverter.Code\\SpeedConverter.Code.csproj": {
+              "projectPath": "X:\\TDD\\XUnit VS19\\SpeedConverter\\SpeedConverter\\SpeedConverter.Code\\SpeedConverter.Code.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
