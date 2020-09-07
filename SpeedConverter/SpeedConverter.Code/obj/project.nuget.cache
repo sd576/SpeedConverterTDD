@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W15Jvf8u0BgnSPcSGC5ZSkQMXo1TbehNttcesXRlegMFRUDiRnB377k20n6tE7VWGmSQfkSE73Y7f/2pR8DYmQ==",
+  "success": true,
+  "projectFilePath": "X:\\TDD\\XUnit VS19\\SpeedConverter\\SpeedConverter\\SpeedConverter.Code\\SpeedConverter.Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stuartducasse\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\stuartducasse\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

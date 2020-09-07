@@ -1,0 +1,9 @@
+X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Code\bin\Debug\netstandard2.0\SpeedConverter.Code.deps.json
+X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Code\bin\Debug\netstandard2.0\SpeedConverter.Code.dll
+X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Code\bin\Debug\netstandard2.0\SpeedConverter.Code.pdb
+X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Code\obj\Debug\netstandard2.0\SpeedConverter.Code.csprojAssemblyReference.cache
+X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Code\obj\Debug\netstandard2.0\SpeedConverter.Code.AssemblyInfoInputs.cache
+X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Code\obj\Debug\netstandard2.0\SpeedConverter.Code.AssemblyInfo.cs
+X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Code\obj\Debug\netstandard2.0\SpeedConverter.Code.csproj.CoreCompileInputs.cache
+X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Code\obj\Debug\netstandard2.0\SpeedConverter.Code.dll
+X:\TDD\XUnit VS19\SpeedConverter\SpeedConverter\SpeedConverter.Code\obj\Debug\netstandard2.0\SpeedConverter.Code.pdb

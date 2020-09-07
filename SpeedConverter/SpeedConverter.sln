@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedConverter.Tests", "SpeedConverter.Tests\SpeedConverter.Tests.csproj", "{20735D73-2C90-4525-87FA-A3AF492537CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedConverter.Code", "SpeedConverter.Code\SpeedConverter.Code.csproj", "{EA18B6C8-C00D-4156-A15A-4BF6811AC1C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{20735D73-2C90-4525-87FA-A3AF492537CE}.Release|x64.Build.0 = Release|Any CPU
 		{20735D73-2C90-4525-87FA-A3AF492537CE}.Release|x86.ActiveCfg = Release|Any CPU
 		{20735D73-2C90-4525-87FA-A3AF492537CE}.Release|x86.Build.0 = Release|Any CPU
+		{EA18B6C8-C00D-4156-A15A-4BF6811AC1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA18B6C8-C00D-4156-A15A-4BF6811AC1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA18B6C8-C00D-4156-A15A-4BF6811AC1C6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EA18B6C8-C00D-4156-A15A-4BF6811AC1C6}.Debug|x64.Build.0 = Debug|Any CPU
+		{EA18B6C8-C00D-4156-A15A-4BF6811AC1C6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EA18B6C8-C00D-4156-A15A-4BF6811AC1C6}.Debug|x86.Build.0 = Debug|Any CPU
+		{EA18B6C8-C00D-4156-A15A-4BF6811AC1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA18B6C8-C00D-4156-A15A-4BF6811AC1C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA18B6C8-C00D-4156-A15A-4BF6811AC1C6}.Release|x64.ActiveCfg = Release|Any CPU
+		{EA18B6C8-C00D-4156-A15A-4BF6811AC1C6}.Release|x64.Build.0 = Release|Any CPU
+		{EA18B6C8-C00D-4156-A15A-4BF6811AC1C6}.Release|x86.ActiveCfg = Release|Any CPU
+		{EA18B6C8-C00D-4156-A15A-4BF6811AC1C6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
